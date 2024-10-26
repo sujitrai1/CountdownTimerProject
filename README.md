@@ -1,0 +1,1 @@
+The Countdown Timer Project is a front-end web application that allows users to set a specific countdown time and displays the remaining time in real-time. It features a simple and user-friendly interface where users can input a time (in hours, minutes, and seconds) and watch the timer decrement until it reaches zero
